@@ -24,11 +24,11 @@ Anaylisis was generated trough information obtained by the kickstarter .API that
 
 The fist challenge we see is that information not allways comes ready or in a friandly way to analyze and generate reports. For example the date was in a non readable format, and because of that we needed to workaround to determine date in an understadable way.
 
-![Theaters detail in US](/Format%20Date.png)
+![Date Transformation](/Format%20Date.png)
 
 Another Example is that Category and Subcategory of the campaign were merged making the undestandment of the information more difficult, and for that reason we also divided that information through an additional process.
 
-![Theaters detail in US](/CatDiv.png)
+![Cat and Sub Cat division](/CatDiv.png)
 
 To generate the Analysis we used Excel as the main tool to determine correlation between variables and to segmentate, pivot and use other tools to compare information and move to conclusions.
 
@@ -36,11 +36,11 @@ In this case we faced some challenges with the information included on the data 
 
 Fisrt the standard variation is very far from the mean, indicating strog difference in each quartile and low similarity between the data sets given.
 
-![Theaters detail in US](/StadisticsA.png)
+![Stadistics](/StadisticsA.png)
 
 Second the amount of otliers is very big, we have many points outside de quartiles again suggesting strong differences across the data.
 
-![Theaters detail in US](/StadisticsB.png)
+![Outliers](/StadisticsB.png)
 
 About the analysis, let's first undestand the category. 
 
@@ -55,6 +55,7 @@ About the analysis, let's first undestand the category.
 
 * In terms of the Month of were we can find more amount of succesfull campaigns across countries on May and July, and actually we can discover also that the same trend in the US.
 
+![Trend by Month Global](/Theater_Outcomes_vs_Launch.png)
 
 
 
