@@ -51,3 +51,16 @@ About the analysis, let's first undestand the category.
 
 ![Theaters detail in US](/US_TSUBCAT.png)
 
+### Analysis of Outcomes Based on Launch Date
+
+* In terms of the Month of were we can find more amount of succesfull campaigns across countries on May and July, and actually we can discover also that the same trend in the US.
+
+
+
+
+
+
+
+
+
+
