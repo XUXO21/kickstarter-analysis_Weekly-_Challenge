@@ -49,3 +49,5 @@ About the analysis, let's first undestand the category.
 
 * Within the theaters crowdfounding plays are not only the most important, but also the ones that have most success, but in the other hand also te most failed
 
+![Theaters detail in US](/US_TSUBCAT.png)
+
