@@ -57,8 +57,11 @@ About the analysis, let's first undestand the category.
 
 ![Trend by Month Global](/Theater_Outcomes_vs_Launch.png)
 
+![Trend by Month US](/MONTHSUS.png)
 
+* But if we undestand the Success to Fail Ratio across the months we can see other months were maybe there is not the same amount of campagns on the air but could be another posiibility to launch if the May-June window gets complicated. Those Months are, Feb, Apr, Jul and Nov.
 
+![Month Ratio](/monthsratio.png)
 
 
 
