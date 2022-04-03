@@ -40,5 +40,5 @@ Fisrt the standard variation is very far from the mean, indicating strog differe
 
 Second the amount of otliers is very big, we have many points outside de quartiles again suggesting strong differences across the data.
 
-
+![Theaters detail in US](/StadisticsB.png)
 
