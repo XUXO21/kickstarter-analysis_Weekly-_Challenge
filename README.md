@@ -18,11 +18,14 @@ Louise is investing her mony and the money of the people pleadging on her idea s
 
 ---
 
-## 2 Analysis and Challenges
+## 2. Analysis and Challenges
 
 Anaylisis was generated trough information obtained by the kickstarter .API that gave us inforation from different kind of capaigns like the type of them, a general description, also we had the parameters for undestanding variables for Geography, to undestand not only the US campaigns were our client had interest but also to try to undestand bencharks in other countries or even to know performance in specific markets to determine possible incursion on them. Also wew had inforamtion regarding their pledge objectives, actuals pledge, number of bakers and finally we counted with date data like the start and end of the capagins.
 
 The fist challenge we see is that information not allways comes ready or in a friandly way to analyze and generate reports. For example the date was in a non readable format, and because of that we needed to workaround to determine date in an understadable way.
+
+![Theaters detail in US](/Format%20Date.png)
+
 
 
 
