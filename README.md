@@ -100,4 +100,4 @@ We can generate a graph to obtain average pledge per pledger per goal range it w
 
 #Link to excel:
 
-https://github.com/XUXO21/kickstarter-analysis_Weekly-_Challenge/blob/main/Kickstarter_Challenge.xlsx
+https://github.com/XUXO21/kickstarter-analysis_Weekly-_Challenge/blob/main/Kickstarter_Challenge.xlsx.zip
