@@ -67,8 +67,7 @@ About the analysis, let's first undestand the category.
 
 The 92% of the pledges are on the range from $0 yo $14,999 but we can see a bigger amount of succesfull pledges between $0 and $4,999 where the ratio of successful campagns over failed is higer. Also we can see a good ratio in campagns between $35,000 and $44,999 but this range represents only the 1% of the campagns.
 
-
-
+![SvsF Ratio](/Outcomes_vs_Goals.png)
 
 
 
