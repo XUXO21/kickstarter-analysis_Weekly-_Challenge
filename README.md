@@ -34,10 +34,11 @@ To generate the Analysis we used Excel as the main tool to determine correlation
 
 In this case we faced some challenges with the information included on the data base, for example in terms of information included fot the campagns, both sucessfill and failed, we can see two staditics that let us undestand that the information has opportunties in terms of being representativo or accurate.
 
-Fisrt the standard variation is very far from the mean, indicating strog difference in each quartile
+Fisrt the standard variation is very far from the mean, indicating strog difference in each quartile and low similarity between the data sets given.
 
+![Theaters detail in US](/StadisticsA.png)
 
-
+Second the amount of otliers is very big, we have many points outside de quartiles again suggesting strong differences across the data.
 
 
 
