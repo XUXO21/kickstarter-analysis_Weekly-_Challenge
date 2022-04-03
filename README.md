@@ -73,3 +73,30 @@ Failed Campagns have in average higher mean, median and mode goals so is importa
 
 ![SvsF Ratio](/sTADITICSgOALS.png)
 
+### 2.3 Challenges and Difficulties Encountered
+
+Based on the Analysis we could determine that some challenges can take place for example or the tome period it is important to launch only on the recomended months, the end of the year is not a good idea so the proyect needs to avoid that stage of the year and if timming is not like that taht could mean a difficulty. As per the Objective definition the challenge is the amount of the Goal because if the Goela is above $5,000 the success posibilities get diminished in a great proportion.
+
+---
+
+## 3. Results
+
+### 3.1 Conclusions based on Launch Date
+
+1. Do not extend the campaign for more than 30 days
+2. Start the campaign on May or June. If not possible Feb,Apr, Jul or Nov 
+
+### 3.2 Conclusions based on Goals
+
+1. Divide Campagn Goal in two crowdfundings of $5K (Assuming $10k Total Goal)
+
+### 3.3 Limitations of this dataset
+
+Always more information is better, if we could have additional detail of the cast, the post mortem of the play if it was succesful after, the amount of money that they generated in their launch, detail of advertaisemnt, type of media It would be of great help.
+
+### 3.4 other possible tables and/or graphs
+
+We can generate a graph to obtain average pledge per pledger per goal range it would let us undestand the reach of the campaign and aim to attract a specific number of pearsons. Generate a table and graph of the most sucessfull campagns and determine by type and subtype the specifics like duration, details of the campagns and amounts of goal and pledged.
+
+
+
