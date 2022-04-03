@@ -98,5 +98,5 @@ Always more information is better, if we could have additional detail of the cas
 
 We can generate a graph to obtain average pledge per pledger per goal range it would let us undestand the reach of the campaign and aim to attract a specific number of pearsons. Generate a table and graph of the most sucessfull campagns and determine by type and subtype the specifics like duration, details of the campagns and amounts of goal and pledged.
 
-
+#Link to excel:
 
