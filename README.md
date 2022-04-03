@@ -26,6 +26,8 @@ The fist challenge we see is that information not allways comes ready or in a fr
 
 ![Theaters detail in US](/Format%20Date.png)
 
+Another Example is that Category and Subcategory of the campaign were merged making the undestandment of the information more difficult, and for that reason we also divided that information through an additional process.
+
 
 
 
